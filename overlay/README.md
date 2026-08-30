@@ -1,7 +1,17 @@
 # OVerlay
 
 ---
-## foracc
+
+
+
+---
+## firacc
+
+```
+from pynq import Overlay
+overlay = Overlay('./firacc.bit')
+overlay?
+```
 
 ```
 Type:            Overlay
